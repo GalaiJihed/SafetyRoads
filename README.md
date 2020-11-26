@@ -1,5 +1,5 @@
 
-# <img src="https://user-images.githubusercontent.com/47055686/100393516-32982400-303a-11eb-97ed-b39b6a39034d.png" width=20 heigth=20 /> SafetyRoads 
+# <img src="https://user-images.githubusercontent.com/47055686/100393516-32982400-303a-11eb-97ed-b39b6a39034d.png" width=40 heigth=40 /> SafetyRoads 
 
 ## instructions
 <div class="row">
