@@ -1,6 +1,10 @@
+<h6>Splash Screen</h6>
+
 <img src="https://user-images.githubusercontent.com/47055686/100389912-0f1bac00-302f-11eb-8130-24cf7bbcce4c.jpg" width=200 heigth=600 />
+<h6>Login Page</h6>
 <img src="https://user-images.githubusercontent.com/47055686/100389940-265a9980-302f-11eb-9755-cbd50450be57.jpg" width=200 heigth=600 />
 <img src="https://user-images.githubusercontent.com/47055686/100389965-35414c00-302f-11eb-98a3-9836a9f60343.jpg" width=200 heigth=600 />
+
 <img src="https://user-images.githubusercontent.com/47055686/100389950-2ce91100-302f-11eb-8c28-c185fe27fa49.jpg" width=200 heigth=600 />
 <img src="https://user-images.githubusercontent.com/47055686/100389956-2f4b6b00-302f-11eb-8d72-61cad754eb8f.jpg" width=200 heigth=600 />
 <img src="https://user-images.githubusercontent.com/47055686/100389981-3ecab400-302f-11eb-9bdd-40c87e73cc06.jpg" width=200 heigth=600 />
@@ -16,7 +20,7 @@
 <img src="https://user-images.githubusercontent.com/47055686/100390030-63269080-302f-11eb-8a04-265bed60b580.jpg" width=200 heigth=600 />
 <img src="https://user-images.githubusercontent.com/47055686/100390032-64f05400-302f-11eb-9e20-d25bd26159a9.jpg" width=200 heigth=600 />
 <img src="https://user-images.githubusercontent.com/47055686/100390044-6ae63500-302f-11eb-9d9a-c0c77a7dff52.jpg" width=200 heigth=600 />
-<img src="https://user-images.githubusercontent.com/47055686/100390054-6de12580-302f-11eb-9c13-bcb3424f7672.jpg" width=200 heigth=600 />
+
 <img src="https://user-images.githubusercontent.com/47055686/100390063-73d70680-302f-11eb-9171-2cb4524c8ea5.jpg" width=200 heigth=600 />
 
 
