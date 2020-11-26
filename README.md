@@ -1,4 +1,4 @@
-<h6>Splash Screen</h6>
+<h6 align="center" size="25">Splash Screen</h6>
 
 <img src="https://user-images.githubusercontent.com/47055686/100389912-0f1bac00-302f-11eb-8130-24cf7bbcce4c.jpg" width=200 heigth=600 />
 <h6>Login Page</h6>
