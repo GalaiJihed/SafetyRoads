@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1098204096327",
+    "firebase_url": "https://roads-295520.firebaseio.com",
+    "project_id": "roads-295520",
+    "storage_bucket": "roads-295520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098204096327:android:b49c99b737b8bab0084e62",
+        "android_client_info": {
+          "package_name": "com.example.roads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098204096327-dmnsv0bout56t0pi0ib6u9g5jilqq0vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaejb7uNyDdU4iq_f155rxevtloRPj75c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098204096327-dmnsv0bout56t0pi0ib6u9g5jilqq0vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
