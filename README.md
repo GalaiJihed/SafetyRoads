@@ -4,7 +4,8 @@
 ## instructions
 1. run SafetyRoads node server  [Here](https://github.com/GalaiJihed/RoadsWebService)
 2. install missing dependencies:
- fluter pub get
+<code> flutter pub get</code>
+
 <div class="row">
 <img src="https://user-images.githubusercontent.com/47055686/100389912-0f1bac00-302f-11eb-8130-24cf7bbcce4c.jpg" width=200 heigth=600 />
 </div>
