@@ -2,7 +2,7 @@
 # <img src="https://user-images.githubusercontent.com/47055686/100393516-32982400-303a-11eb-97ed-b39b6a39034d.png" width=40 heigth=40 /> SafetyRoads 
 
 ## instructions
-1. run share bike react node server  [Here](https://github.com/GalaiJihed/RoadsWebService)
+1. run SafetyRoads node server  [Here](https://github.com/GalaiJihed/RoadsWebService)
 2. install missing dependencies:
  fluter pub get
 <div class="row">
