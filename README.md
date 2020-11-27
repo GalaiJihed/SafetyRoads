@@ -2,10 +2,14 @@
 # <img src="https://user-images.githubusercontent.com/47055686/100393516-32982400-303a-11eb-97ed-b39b6a39034d.png" width=40 heigth=40 /> SafetyRoads 
 
 ## instructions
-1. run SafetyRoads node server  [Here](https://github.com/GalaiJihed/RoadsWebService)
-2. install missing dependencies:
-<code> flutter pub get</code>
 
+<ol>
+<li> run SafetyRoads node server  [Here](https://github.com/GalaiJihed/RoadsWebService)</li>
+<li>install missing dependencies:</li>
+ <code> flutter pub get</code>
+<li></li>
+<li>Run the app</li>
+</ol>
 <div class="row">
 <img src="https://user-images.githubusercontent.com/47055686/100389912-0f1bac00-302f-11eb-8130-24cf7bbcce4c.jpg" width=200 heigth=600 />
 </div>
