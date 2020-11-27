@@ -7,6 +7,7 @@
 <li>Run SafetyRoads node server  [Here](https://github.com/GalaiJihed/RoadsWebService)</li>
 <li>Install missing dependencies:</li>
  <code> flutter pub get</code>
+<li>change API_URL in /lib/Config/AppConfig.dart
 <li>Run the app</li>
 </ol>
 
