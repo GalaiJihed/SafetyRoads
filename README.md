@@ -6,10 +6,10 @@
 <ol>
 <li> run SafetyRoads node server  [Here](https://github.com/GalaiJihed/RoadsWebService)</li>
 <li>install missing dependencies:</li>
- <code> flutter pub get</code>
-<li></li>
+ <code>(\) flutter pub get</code>
 <li>Run the app</li>
 </ol>
+## Project Images
 <div class="row">
 <img src="https://user-images.githubusercontent.com/47055686/100389912-0f1bac00-302f-11eb-8130-24cf7bbcce4c.jpg" width=200 heigth=600 />
 </div>
