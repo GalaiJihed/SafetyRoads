@@ -6,7 +6,7 @@
 <ol>
 <li> run SafetyRoads node server  [Here](https://github.com/GalaiJihed/RoadsWebService)</li>
 <li>install missing dependencies:</li>
- <code>(\) flutter pub get</code>
+ <code>\ flutter pub get</code>
 <li>Run the app</li>
 </ol>
 ## Project Images
